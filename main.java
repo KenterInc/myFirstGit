@@ -1,4 +1,4 @@
 class girl {
-	string str = "我是项目二"
+	String str = "我是大哥"
 	
 }
